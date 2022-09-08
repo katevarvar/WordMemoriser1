@@ -44,7 +44,7 @@ public class WordMemoriseApp1 {
                 however - однако, как бы то ни было;
                 fair - честный; """
                 ;
-        WordMemoriseApp1.training(content);
+        WordMemoriseApp.training(content);
     }
 }
 
